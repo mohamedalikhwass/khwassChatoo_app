@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1076368756584",
+    "project_id": "khwasschat",
+    "storage_bucket": "khwasschat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076368756584:android:d6eeccc6ba3f2a596710dd",
+        "android_client_info": {
+          "package_name": "com.khwass_chat.khwass_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1076368756584-h8l671a2e810j4ip3dkl3i6sc826ef1n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkytsu9w1dMmTIGfNJkYfNKoPus6Chq7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1076368756584-h8l671a2e810j4ip3dkl3i6sc826ef1n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
